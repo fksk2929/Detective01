@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor4_1","characterIndex":5,"characterName":"People3","classId":1,"equips":[0,0,92,93,11],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"ホムス","nickname":"探偵","note":"<equipSlotEx:5>","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"Nature","classId":2,"equips":[0,1,0,0,0],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":3,"maxLevel":99,"name":"ワトリン","nickname":"助手","note":"","profile":""}
+]
